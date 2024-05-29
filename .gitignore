@@ -1,0 +1,53 @@
+# Visual Studio 2015 user specific files
+.vs/
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Unreal Engine specific ignores
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.log
+*.tmp
+*.vscode/
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+*.idea/
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.VC.opendb
+.vscode/
+
+# Ignore config files that can be generated
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Ignore project-specific files
+*.code-workspace
+*.uproject
+
+# Ignore build files
+Build/
+
